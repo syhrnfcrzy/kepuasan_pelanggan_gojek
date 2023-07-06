@@ -1,5 +1,5 @@
 
-![Logo](https://res.cloudinary.com/dyd911kmh/image/upload/v1640050215/image27_frqkzv.png)
+![Logo](https://tecnothink.com.br/wp-content/uploads/2020/11/Streamlit_Logo_1-720x540.jpg)
 
 
 # IMPLEMENTASI TEXT PADA KLASIFIKASI KEPUASAN PELANGGAN TRANSPORTASI ONLINE (GOJEK) MENGGUNAKAN ALGORITMA KNN
