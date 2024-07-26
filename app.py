@@ -27,7 +27,7 @@ page_bg_img = f"""
 <style>
 
 [data-testid="stAppViewContainer"] > .main {{
-background-image: url("https://blog.gojek.io/content/images/size/w2000/2021/02/API-Design-blog-01-01.png");
+background-image: url("");
 background-size: 100%;
 background-height: auto;
 }}
